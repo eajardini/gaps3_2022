@@ -1,1 +1,1 @@
-# gaps3_2022
+# Repositório da Disciplina Gestão Ágil de Projetos
